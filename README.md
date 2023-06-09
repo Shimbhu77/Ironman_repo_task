@@ -18,10 +18,9 @@ Component C is another child component of Component A. Its purpose is to retriev
 
 ## Tech Stack
 
-To accomplish this task, the following technologies and libraries are recommended:
+To accomplish this task, the following technologies and libraries are used:
 
 - ReactJS: A JavaScript library for building user interfaces.
-- Redux: A predictable state container for managing the application's state.
 - Redux Toolkit: A library that simplifies the usage of Redux by providing abstractions and utilities.
 - Bootstrap: A popular CSS framework for creating responsive and visually appealing user interfaces.
 
