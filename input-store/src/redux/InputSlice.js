@@ -9,7 +9,7 @@ export const inputSlice = createSlice({
   initialState,
   reducers: {
     addText: (state, action) => {
-      state.textValue += action.payload
+      state.textValue = action.payload
     },
   },
 })
